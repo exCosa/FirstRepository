@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello from add-feature1
+=======
+line from user1
+>>>>>>> b9301cd391e30698ad81d13ed3e3fbd632f3924e

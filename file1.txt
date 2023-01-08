@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Blake_Gordon
 Carl Jonhson
 C:\Users\ssmos
@@ -10,5 +11,10 @@ ashot
 line from user2
 line from user1
 line from add-feature2
+=======
+line from user2
+another line from user2
+
+>>>>>>> b9301cd391e30698ad81d13ed3e3fbd632f3924e
 
 
